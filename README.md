@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# Share A fact 
+Share A fact is a fun full stack web application built in HTML, CSS, JavaScript, React and the backend is built on Supabase DB. I made this application for enhancing my portfolio and get hands-on experience with JavaScript's React.js library. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+App Link : https://share-a-fact-meetsevak-fc8826.netlify.app/
 
-## Available Scripts
+
+# Getting started with the project
 
 In the project directory, you can run:
 
@@ -67,4 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
