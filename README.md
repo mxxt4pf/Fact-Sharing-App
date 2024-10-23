@@ -1,5 +1,9 @@
 # Share A fact 
-Share A fact is a fun full stack web application built in HTML, CSS, JavaScript, React and the backend is built on Supabase DB. I made this application for enhancing my portfolio and get hands-on experience with JavaScript's React.js library. 
+"Share A fact" is a fun full stack web application built in HTML, CSS, JavaScript, React and the backend is built on Supabase DB. I made this application for enhancing my portfolio and get hands-on experience with JavaScript's React.js library. Leveraged the PostgreSQL DB on supabase for storing the application data and deployed the production build of the application on Netlify.
+
+Use case: Users can create and post a new fact on a topic of their interest based on any internet source which makes a fun directory for people to have a look at the facts and reactions posted by other users.
+
+Tech Stack : React, JavaScript, HTML, CSS, Supabase, PostgreSQL, Netlify.
 
 App Link : https://share-a-fact-meetsevak-fc8826.netlify.app/
 
