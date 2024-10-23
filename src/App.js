@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-target-blank */
 import { useEffect, useState } from 'react';
 import supabase from './supabase';
 
